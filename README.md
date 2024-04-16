@@ -23,4 +23,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter--informational?style=social&logo=twitter)](https://twitter.com/itsRoshanHarry)
 [![Instagram](https://img.shields.io/badge/Instagram--informational?style=social&logo=instagram)](https://www.instagram.com/itsroshanharry/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername)](https://github.com/anuraghazra/github-readme-stats)
+📊 GitHub Stats:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsroshanharry&show_icons=true&theme=radical)
+
