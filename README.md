@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hi there, I'm Roshan Kumar! 👋
 
-<!--
-**itsroshanharry/itsroshanharry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 👀 I'm interested in Web Development, Blockchain & App Development.
+- 🌱 I'm familiar with Full Stack web development.
+- 💞️ I'm looking to collaborate on MERN stack projects.
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/yasshu/).
 
-Here are some ideas to get you started:
+## Socials
+- [LinkedIn](https://www.linkedin.com/in/roshan-kumar-810a1626a/)
+- [Twitter](https://twitter.com/itsRoshanHarry)
+- [Instagram](https://www.instagram.com/itsroshanharry/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- C++
+- CSS3
+- HTML5
+- Java
+- JavaScript
+- Netlify
+- Heroku
+- Vercel
+- Bootstrap
+- NPM
+- Node.js
+- React
+- MongoDB
+- MySQL
+
+## GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername)](https://github.com/anuraghazra/github-readme-stats)
