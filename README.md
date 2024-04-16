@@ -22,3 +22,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--informational?style=social&logo=linkedin)](https://www.linkedin.com/in/roshan-kumar-810a1626a/)
 [![Twitter](https://img.shields.io/badge/Twitter--informational?style=social&logo=twitter)](https://twitter.com/itsRoshanHarry)
 [![Instagram](https://img.shields.io/badge/Instagram--informational?style=social&logo=instagram)](https://www.instagram.com/itsroshanharry/)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername)](https://github.com/anuraghazra/github-readme-stats)
