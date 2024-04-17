@@ -1,10 +1,12 @@
 # Hi there, I'm Roshan Kumar! 👋
 
 ## About Me
-- 👀 I'm interested in Web Development, Blockchain & App Development.
-- 🌱 I'm familiar with Full Stack web development.
-- 💞️ I'm looking to collaborate on MERN stack projects.
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/yasshu/).
+- 👀 Exploring Web Development, Blockchain, and App Development realms.
+- 🌱 Proficient in Full Stack web development.
+- 💞️ Open to collaborating on exciting MERN stack projects.
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/roshan-kumar-810a1626a/).
+
+).
 
 💻 Tech Stack:
 
