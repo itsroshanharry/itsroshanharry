@@ -24,7 +24,7 @@
 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--informational?style=social&logo=linkedin)](https://www.linkedin.com/in/roshan-kumar-810a1626a/)
-[![Twitter](https://img.shields.io/badge/Twitter--informational?style=social&logo=twitter)](https://twitter.com/itsRoshanHarry)
+[![Twitter](https://img.shields.io/badge/Twitter--informational?style=social&logo=twitter)](https://twitter.com/itsroshanharry)
 [![Instagram](https://img.shields.io/badge/Instagram--informational?style=social&logo=instagram)](https://www.instagram.com/itsroshanharry/)
 
 📊 GitHub Stats:
