@@ -2,11 +2,9 @@
 
 ## About Me
 - 👀 Exploring Web Development, Blockchain, and App Development realms.
-- 🌱 Proficient in Full Stack web development.
+- 🌱Familiar with Full Stack web development.
 - 💞️ Open to collaborating on exciting MERN stack projects.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/roshan-kumar-810a1626a/).
-
-).
 
 💻 Tech Stack:
 
