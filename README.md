@@ -30,4 +30,6 @@
 📊 GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsroshanharry&show_icons=true&theme=radical)
+![Roshan Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=roshankumar0809&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Roshan Kumar's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=roshankumar0809&layout=compact&theme=radical)
 
