@@ -30,7 +30,6 @@
 📊 GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsroshanharry&show_icons=true&theme=radical)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=itsroshanharry&theme=vision-friendly-dark&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-![Roshan Kumar's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=itsroshanharry&layout=compact&theme=radical)
+(https://github-readme-stats.vercel.app/api?username=itsroshanharry&theme=vision-friendly-dark&show_icons=true&include_all_commits=true&count_private=true)]
+(https://github-readme-stats.vercel.app/api/top-langs/?username=itsroshanharry&layout=compact&theme=radical)
 
