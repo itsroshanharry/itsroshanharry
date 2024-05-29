@@ -2,7 +2,7 @@
 
 ## About Me
 - 👀 Exploring Web Development, Blockchain, and App Development realms.
-- 🌱Familiar with Full Stack web development.
+- 🌱 Familiar with Full Stack web development.
 - 💞️ Open to collaborating on exciting MERN stack projects.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/roshan-kumar-810a1626a/).
 
@@ -20,7 +20,6 @@
 ### Deployment:
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-  
 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--informational?style=social&logo=linkedin)](https://www.linkedin.com/in/roshan-kumar-810a1626a/)
@@ -30,3 +29,4 @@
 📊 GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsroshanharry&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsroshanharry&layout=compact&theme=radical)
