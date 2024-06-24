@@ -5,7 +5,7 @@
 - 🌐 Exploring Web Development and Blockchain technologies.
 - 🌱 Familiar with Full Stack web development.
 - 💞️ Open to collaborating on exciting MERN stack projects.
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/roshan-kumar-810a1626a/) to discuss potential collaborations!
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/itsroshanharry/) to discuss potential collaborations!
 
 💻 Tech Stack:
 
