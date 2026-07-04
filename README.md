@@ -1,12 +1,16 @@
 # Hey 👋 I'm Roshan Kumar
 
-### AI Engineer @ Accenture | Building Production Agentic AI Systems
+### AI Engineer @ Accenture | Production AI Systems • Agentic AI • Distributed Systems
 
-I build **production AI systems** that go beyond prompting—designing autonomous agents, distributed AI workflows, and scalable backend infrastructure that solve real business problems.
+I build production AI systems at the intersection of software engineering, distributed systems, and modern AI architectures.
 
-Over the past 2 years, I've been engineering enterprise AI applications ranging from **multi-agent architectures** and **RAG systems** to **cloud-native AI infrastructure**, with a focus on reliability, evaluation, and production readiness.
+My work spans autonomous agents, multi-agent orchestration, Retrieval-Augmented Generation (RAG), evaluation frameworks, cloud infrastructure, and scalable backend systems. I enjoy rapidly exploring new technologies, validating ideas through experimentation, and turning research into production-ready software.
 
-> *I enjoy turning cutting-edge AI capabilities into production systems that users can trust.*
+I see AI as an engineering accelerator—not something that replaces deep technical understanding. The real value comes from designing robust architectures, making sound engineering trade-offs, and using AI intentionally throughout the software development lifecycle.
+
+I'm always looking to solve harder problems, build faster with better tools, and work with teams that value ownership, technical excellence, and continuous learning.
+
+> *Building AI systems that don't just generate outputs—but reason, collaborate, and deliver reliable outcomes.*
 
 ---
 
@@ -18,7 +22,7 @@ Over the past 2 years, I've been engineering enterprise AI applications ranging 
 - 🔌 Model Context Protocol (MCP)
 - 🤝 Agent-to-Agent (A2A) Communication
 - ⚖️ LLM Evaluation & Guardrails
-- ☁️ Cloud-native AI on AWS
+- ☁️ Cloud-native AI on AWS, Azure & GCP
 - ⚡ Distributed Event-Driven Systems
 
 ---
@@ -27,14 +31,38 @@ Over the past 2 years, I've been engineering enterprise AI applications ranging 
 
 ### AI Engineering
 
+#### Programming
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+#### Foundation Models
+
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square)
-![Anthropic](https://img.shields.io/badge/-Anthropic-191919?style=flat-square)
+![Azure OpenAI](https://img.shields.io/badge/-Azure%20OpenAI-0078D4?style=flat-square)
+![AWS Bedrock](https://img.shields.io/badge/-AWS%20Bedrock-FF9900?style=flat-square)
+
+![GPT](https://img.shields.io/badge/-GPT-10A37F?style=flat-square)
+![Claude](https://img.shields.io/badge/-Claude-191919?style=flat-square)
+![Llama](https://img.shields.io/badge/-Llama-0467DF?style=flat-square)
+![Amazon Nova](https://img.shields.io/badge/-Amazon%20Nova-FF9900?style=flat-square)
+
+#### Agentic AI Frameworks
+
 ![LangGraph](https://img.shields.io/badge/-LangGraph-black?style=flat-square)
 ![LangChain](https://img.shields.io/badge/-LangChain-black?style=flat-square)
+![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-6C63FF?style=flat-square)
+![CrewAI](https://img.shields.io/badge/-CrewAI-7C3AED?style=flat-square)
+![AutoGen](https://img.shields.io/badge/-AutoGen-2563EB?style=flat-square)
+![Strands](https://img.shields.io/badge/-Strands-FF9900?style=flat-square)
+
+#### AI Systems
+
 ![RAG](https://img.shields.io/badge/-RAG-0052CC?style=flat-square)
 ![MCP](https://img.shields.io/badge/-MCP-4F46E5?style=flat-square)
 ![A2A](https://img.shields.io/badge/-A2A-0F766E?style=flat-square)
+![LLM Evaluation](https://img.shields.io/badge/-LLM%20Evaluation-0EA5E9?style=flat-square)
+![Guardrails](https://img.shields.io/badge/-Guardrails-DC2626?style=flat-square)
 
 ---
 
@@ -52,9 +80,45 @@ Over the past 2 years, I've been engineering enterprise AI applications ranging 
 ### Cloud & Infrastructure
 
 ![AWS Bedrock](https://img.shields.io/badge/-AWS%20Bedrock-FF9900?style=flat-square)
-![AWS Lambda](https://img.shields.io/badge/-Lambda-FF9900?style=flat-square)
+![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-FF9900?style=flat-square)
 ![Amazon S3](https://img.shields.io/badge/-Amazon%20S3-569A31?style=flat-square)
 ![API Gateway](https://img.shields.io/badge/-API%20Gateway-FF4F8B?style=flat-square)
+
+![Azure OpenAI](https://img.shields.io/badge/-Azure%20OpenAI-0078D4?style=flat-square)
+![Azure Functions](https://img.shields.io/badge/-Azure%20Functions-0062AD?style=flat-square)
+![Azure Cosmos DB](https://img.shields.io/badge/-Azure%20Cosmos%20DB-2F2F2F?style=flat-square)
+![Gremlin API](https://img.shields.io/badge/-Gremlin%20API-00599C?style=flat-square)
+
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square)
+![Cloud Spanner](https://img.shields.io/badge/-Cloud%20Spanner-4285F4?style=flat-square)
+![Vertex AI](https://img.shields.io/badge/-Vertex%20AI-1A73E8?style=flat-square)
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Serverless](https://img.shields.io/badge/-Serverless-orange?style=flat-square)### Cloud & Infrastructure
+
+#### AWS
+
+![AWS Bedrock](https://img.shields.io/badge/-AWS%20Bedrock-FF9900?style=flat-square)
+![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-FF9900?style=flat-square)
+![Amazon API Gateway](https://img.shields.io/badge/-API%20Gateway-FF4F8B?style=flat-square)
+![Amazon S3](https://img.shields.io/badge/-Amazon%20S3-569A31?style=flat-square)
+![Amazon DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square)
+
+#### Azure
+
+![Azure OpenAI](https://img.shields.io/badge/-Azure%20OpenAI-0078D4?style=flat-square)
+![Azure Functions](https://img.shields.io/badge/-Azure%20Functions-0062AD?style=flat-square)
+![Azure Cosmos DB](https://img.shields.io/badge/-Azure%20Cosmos%20DB-2F2F2F?style=flat-square)
+![Gremlin API](https://img.shields.io/badge/-Gremlin%20API-00599C?style=flat-square)
+
+#### Google Cloud
+
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square)
+![Cloud Spanner](https://img.shields.io/badge/-Cloud%20Spanner-4285F4?style=flat-square)
+![Vertex AI](https://img.shields.io/badge/-Vertex%20AI-1A73E8?style=flat-square)
+
+#### Platform
+
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Serverless](https://img.shields.io/badge/-Serverless-orange?style=flat-square)
 
@@ -71,29 +135,33 @@ Over the past 2 years, I've been engineering enterprise AI applications ranging 
 
 # 🧩 Engineering Interests
 
-- Agentic AI
+### 🤖 AI Systems
+
+- Agentic AI Systems
 - Multi-Agent Orchestration
+- Long-Running AI Workflows
+- Autonomous Agent Architectures
 - AI Infrastructure
-- LLM Systems
-- AI Evaluation
+- LLM Evaluation & Benchmarking
+- AI Guardrails & Reliability
+- AI Observability
+- Semantic Caching
+
+### 🧠 AI Architecture
+
+- Memory Architectures for Autonomous Agents
 - Retrieval-Augmented Generation (RAG)
+- Model Context Protocol (MCP)
+- Agent-to-Agent (A2A) Communication
+- Knowledge Graphs
+- AI Developer Tools
+
+### ⚙️ Systems Engineering
+
 - Distributed Systems
 - Cloud Architecture
 - Backend Engineering
 - Event-Driven Systems
-- AI Developer Tools
-
----
-
-# 🌱 Currently Exploring
-
-- Memory architectures for autonomous agents
-- Long-running AI workflows
-- Semantic caching
-- AI observability
-- Agent evaluation frameworks
-- Self-improving agent systems
-
 ---
 
 # 🤝 Let's Connect
