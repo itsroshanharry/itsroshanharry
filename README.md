@@ -6,6 +6,8 @@ I build production AI systems at the intersection of software engineering, distr
 
 My work spans autonomous agents, multi-agent orchestration, Retrieval-Augmented Generation (RAG), evaluation frameworks, cloud infrastructure, scalable backend systems, and applied machine learning. I enjoy rapidly exploring new technologies, validating ideas through experimentation, and turning research into production-ready software.
 
+Beyond shipping features, I care deeply about writing clean, maintainable code, designing resilient architectures, and building systems that are observable, reliable, and easy to evolve over time.
+
 I see AI as an engineering accelerator—not something that replaces deep technical understanding. The real value comes from designing robust architectures, making sound engineering trade-offs, and using AI intentionally throughout the software development lifecycle.
 
 I'm always looking to solve harder problems, build faster with better tools, and work with teams that value ownership, technical excellence, and continuous learning.
@@ -167,12 +169,16 @@ https://twitter.com/itsroshanharry
 roshankumarkola6@gmail.com
 
 ---
+# 🌟 Featured Projects
 
-# 📈 GitHub Analytics
+### 🤖 Autonomous Swarm Agent
+An autonomous multi-agent architecture where specialized AI agents collaborate to design, implement, test, review, and coordinate complex software tasks. Built using AWS Bedrock, Lambda, S3, API Gateway (WebSockets), and modern agentic AI patterns.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsroshanharry&show_icons=true&theme=radical)
+### 📚 Modular RAG System
+A production-oriented Retrieval-Augmented Generation framework with modular retrieval, evaluation pipelines, and extensible AI workflows.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsroshanharry&layout=compact&theme=radical)
+### 🔌 AI Infrastructure & Agent Experiments
+Exploring MCP, Agent-to-Agent (A2A) communication, memory architectures, semantic caching, evaluation frameworks, and long-running autonomous AI workflows.
 
 ---
 
