@@ -79,23 +79,6 @@ I'm always looking to solve harder problems, build faster with better tools, and
 
 ### Cloud & Infrastructure
 
-![AWS Bedrock](https://img.shields.io/badge/-AWS%20Bedrock-FF9900?style=flat-square)
-![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-FF9900?style=flat-square)
-![Amazon S3](https://img.shields.io/badge/-Amazon%20S3-569A31?style=flat-square)
-![API Gateway](https://img.shields.io/badge/-API%20Gateway-FF4F8B?style=flat-square)
-
-![Azure OpenAI](https://img.shields.io/badge/-Azure%20OpenAI-0078D4?style=flat-square)
-![Azure Functions](https://img.shields.io/badge/-Azure%20Functions-0062AD?style=flat-square)
-![Azure Cosmos DB](https://img.shields.io/badge/-Azure%20Cosmos%20DB-2F2F2F?style=flat-square)
-![Gremlin API](https://img.shields.io/badge/-Gremlin%20API-00599C?style=flat-square)
-
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square)
-![Cloud Spanner](https://img.shields.io/badge/-Cloud%20Spanner-4285F4?style=flat-square)
-![Vertex AI](https://img.shields.io/badge/-Vertex%20AI-1A73E8?style=flat-square)
-
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Serverless](https://img.shields.io/badge/-Serverless-orange?style=flat-square)### Cloud & Infrastructure
-
 #### AWS
 
 ![AWS Bedrock](https://img.shields.io/badge/-AWS%20Bedrock-FF9900?style=flat-square)
