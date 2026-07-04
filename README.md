@@ -4,7 +4,7 @@
 
 I build production AI systems at the intersection of software engineering, distributed systems, and modern AI architectures.
 
-My work spans autonomous agents, multi-agent orchestration, Retrieval-Augmented Generation (RAG), evaluation frameworks, cloud infrastructure, and scalable backend systems. I enjoy rapidly exploring new technologies, validating ideas through experimentation, and turning research into production-ready software.
+My work spans autonomous agents, multi-agent orchestration, Retrieval-Augmented Generation (RAG), evaluation frameworks, cloud infrastructure, scalable backend systems, and applied machine learning. I enjoy rapidly exploring new technologies, validating ideas through experimentation, and turning research into production-ready software.
 
 I see AI as an engineering accelerator—not something that replaces deep technical understanding. The real value comes from designing robust architectures, making sound engineering trade-offs, and using AI intentionally throughout the software development lifecycle.
 
@@ -63,6 +63,14 @@ I'm always looking to solve harder problems, build faster with better tools, and
 ![A2A](https://img.shields.io/badge/-A2A-0F766E?style=flat-square)
 ![LLM Evaluation](https://img.shields.io/badge/-LLM%20Evaluation-0EA5E9?style=flat-square)
 ![Guardrails](https://img.shields.io/badge/-Guardrails-DC2626?style=flat-square)
+
+#### Machine Learning
+
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square)
+![Feature Engineering](https://img.shields.io/badge/-Feature%20Engineering-2563EB?style=flat-square)
+![Reinforcement Learning](https://img.shields.io/badge/-Reinforcement%20Learning-7C3AED?style=flat-square)
 
 ---
 
