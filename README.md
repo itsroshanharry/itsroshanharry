@@ -1,99 +1,122 @@
-# Hi, I'm Roshan Kumar 👋
+# Hey 👋 I'm Roshan Kumar
 
-🚀 **Software Engineer | AI Systems | Backend Engineering**
+### AI Engineer @ Accenture | Building Production Agentic AI Systems
 
-I enjoy building **intelligent systems, scalable backends, and AI-powered applications**.  
-My interests lie at the intersection of **AI systems, distributed architectures, and developer tools.**
+I build **production AI systems** that go beyond prompting—designing autonomous agents, distributed AI workflows, and scalable backend infrastructure that solve real business problems.
 
----
+Over the past 2 years, I've been engineering enterprise AI applications ranging from **multi-agent architectures** and **RAG systems** to **cloud-native AI infrastructure**, with a focus on reliability, evaluation, and production readiness.
 
-## 🧠 Current Focus
-
-- 🤖 Building Agentic AI Systems & Multi-Agent Architectures
-- 🧠 Developing **LLM-powered applications**
-- 📊 Designing **LLM evaluation pipelines**
-- ⚡ Exploring **event-driven architectures**
-- 🐍 Using **Python for AI systems**
+> *I enjoy turning cutting-edge AI capabilities into production systems that users can trust.*
 
 ---
 
-# 💻 Tech Stack
+# 🚀 What I'm Building
 
-## AI / Machine Learning
+- 🤖 Autonomous Multi-Agent Systems
+- 🧠 Agentic AI Workflows
+- 📚 Production RAG Pipelines
+- 🔌 Model Context Protocol (MCP)
+- 🤝 Agent-to-Agent (A2A) Communication
+- ⚖️ LLM Evaluation & Guardrails
+- ☁️ Cloud-native AI on AWS
+- ⚡ Distributed Event-Driven Systems
+
+---
+
+# 🛠️ Tech Stack
+
+### AI Engineering
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square)
+![Anthropic](https://img.shields.io/badge/-Anthropic-191919?style=flat-square)
+![LangGraph](https://img.shields.io/badge/-LangGraph-black?style=flat-square)
 ![LangChain](https://img.shields.io/badge/-LangChain-black?style=flat-square)
-![RAG](https://img.shields.io/badge/-RAG-0A66C2?style=flat-square)
-![LLM](https://img.shields.io/badge/-LLM%20Systems-ff6f00?style=flat-square)
+![RAG](https://img.shields.io/badge/-RAG-0052CC?style=flat-square)
+![MCP](https://img.shields.io/badge/-MCP-4F46E5?style=flat-square)
+![A2A](https://img.shields.io/badge/-A2A-0F766E?style=flat-square)
 
 ---
 
-## Backend & APIs
+### Backend Engineering
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![REST API](https://img.shields.io/badge/-REST%20APIs-blue?style=flat-square)
 ![WebSockets](https://img.shields.io/badge/-WebSockets-010101?style=flat-square)
 
 ---
 
-## Databases & Infrastructure
+### Cloud & Infrastructure
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/-Apache%20Kafka-000000?style=flat-square&logo=apachekafka)
-
----
-
-## Cloud & DevOps
-
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/-AWS%20Bedrock-FF9900?style=flat-square)
+![AWS Lambda](https://img.shields.io/badge/-Lambda-FF9900?style=flat-square)
+![Amazon S3](https://img.shields.io/badge/-Amazon%20S3-569A31?style=flat-square)
+![API Gateway](https://img.shields.io/badge/-API%20Gateway-FF4F8B?style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Serverless](https://img.shields.io/badge/-Serverless-orange?style=flat-square)
 
 ---
 
-## Frontend
+### Data & Messaging
 
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-000000?style=flat-square&logo=apachekafka)
 
 ---
 
-# 🔬 Areas of Interest
+# 🧩 Engineering Interests
 
-- Agentic AI Systems
-- LLM Evaluation & Safety
-- Retrieval Augmented Generation (RAG)
-- Event-Driven Architectures
+- Agentic AI
+- Multi-Agent Orchestration
+- AI Infrastructure
+- LLM Systems
+- AI Evaluation
+- Retrieval-Augmented Generation (RAG)
 - Distributed Systems
-- Real-time Applications
+- Cloud Architecture
+- Backend Engineering
+- Event-Driven Systems
+- AI Developer Tools
 
 ---
 
-# 📫 Connect With Me
+# 🌱 Currently Exploring
+
+- Memory architectures for autonomous agents
+- Long-running AI workflows
+- Semantic caching
+- AI observability
+- Agent evaluation frameworks
+- Self-improving agent systems
+
+---
+
+# 🤝 Let's Connect
 
 💼 LinkedIn  
-https://www.linkedin.com/in/itsroshanharry/
+https://linkedin.com/in/itsroshanharry
 
-🐦 Twitter  
+🐦 X (Twitter)  
 https://twitter.com/itsroshanharry
 
-📸 Instagram  
-https://www.instagram.com/itsroshanharry/
+📧 Email  
+roshankumarkola6@gmail.com
 
 ---
 
-# 📊 GitHub Stats
+# 📈 GitHub Analytics
 
-![Roshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsroshanharry&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsroshanharry&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsroshanharry&layout=compact&theme=radical)
 
 ---
 
-💡 *"I enjoy building systems where software doesn't just run — it thinks."*
+## 💭 Philosophy
+
+> **"The future isn't about building software that responds. It's about engineering systems that reason, collaborate, and continuously improve."**
